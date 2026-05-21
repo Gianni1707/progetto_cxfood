@@ -80,4 +80,4 @@ Instagram richiede di essere loggati per vedere le storie. `gallery-dl` legge i 
 - Se hai committato il token accidentalmente, rigenera il token con BotFather e rimuovilo dalla storia Git.
 
 ## Licensing
-Scegli e aggiungi un file `LICENSE` se vuoi rendere il progetto pubblico.
+Distribuito con licenza [MIT](LICENSE) — uso libero anche commerciale, basta mantenere il copyright.
